@@ -1,5 +1,5 @@
 # PSDataReorg
-🇮🇹 Script di PowerShell per la riorganizzazione e lo spostamento automatico di file PDF (tipicamente fatture) in cartelle e sottocartelle, utilizzando iTextSharp.
+🇮🇹 Script di PowerShell per la riorganizzazione e lo spostamento automatico di file PDF (tipicamente documenti fiscali) in cartelle e sottocartelle, utilizzando iTextSharp.
 
 Sto lavorando all'articolo sul blog per spiegarti come funziona lo script. Sii paziente (neanche tanto!)
 
